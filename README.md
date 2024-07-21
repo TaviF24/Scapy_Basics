@@ -1,7 +1,7 @@
 # Proiect Rețele 2023-2024
 
 Link-ul catre curs se poate gasi [aici](https://github.com/senisioi/computer-networks).<br>
-Colegii de echipa sunt: [Legi](https://github.com/legian-andrei) si [Adel](https://github.com/Andreas054).
+Colegii de echipa sunt: [Legi](https://github.com/legian-andrei) si [Adel](https://github.com/Andreas054). Toate commit-urile sunt pe celalalt repo care este setat ca privat de profu'.
 
 ## Sumar
 
