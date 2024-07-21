@@ -1,5 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/DQ11BQYq)
 # Proiect Rețele 2023-2024
+
+Link-ul catre curs se poate gasi [aici](https://github.com/senisioi/computer-networks).<br>
+Colegii de echipa sunt: [Legi](https://github.com/legian-andrei) si [Adel](https://github.com/Andreas054).
 
 ## Sumar
 
