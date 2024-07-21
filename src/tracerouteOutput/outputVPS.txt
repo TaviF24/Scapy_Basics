@@ -1,0 +1,152 @@
+###########################################
+Traceroute to google.com.au (142.250.74.99) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       244.5.0.101             reserved
+2       240.0.16.13             reserved
+3       240.0.16.18             reserved
+4       242.0.125.97            reserved
+5       52.93.142.149           Sweden, Stockholm County, Stockholm
+6       240.0.196.14            reserved
+7       240.0.196.24            reserved
+8       99.83.118.165           United States, Washington, Seattle
+10      142.251.48.42           United States, California, Mountain View
+11      142.251.48.39           United States, California, Mountain View
+12      142.250.74.99           United States, New York, Plainview
+###########################################
+Traceroute to ozbargain.com.au (172.67.8.209) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       244.5.0.101             reserved
+2       240.0.16.15             reserved
+3       240.0.16.25             reserved
+4       242.0.124.233           reserved
+5       52.93.142.175           Sweden, Stockholm County, Stockholm
+6       52.93.145.198           Sweden, Stockholm County, Stockholm
+7       52.93.144.75            Sweden, Stockholm County, Stockholm
+9       172.67.8.209            Canada, Ontario, Toronto
+###########################################
+Traceroute to sas.no (66.22.34.49) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       13.53.0.203             Sweden, Stockholm, Stockholm
+2       240.0.16.13             reserved
+3       240.0.16.29             reserved
+4       242.0.125.249           reserved
+5       52.93.142.181           Sweden, Stockholm County, Stockholm
+6       52.93.145.110           Sweden, Stockholm County, Stockholm
+7       52.93.143.139           Sweden, Stockholm County, Stockholm
+8       62.115.155.154          United Kingdom, England, London
+9       62.115.125.248          Germany, Free and Hanseatic City of Hamburg, Hamburg
+10      62.115.138.105          Germany, Hesse, Frankfurt am Main
+11      62.115.114.91           Germany, Hesse, Frankfurt am Main
+12      62.115.32.203           Germany, Hesse, Frankfurt am Main
+14      66.22.34.49             Germany, Hesse, Frankfurt
+###########################################
+Traceroute to turkishairlines.com (104.84.152.58) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       244.5.0.11              reserved
+2       240.0.16.15             reserved
+3       240.0.16.19             reserved
+4       242.0.124.225           reserved
+5       52.93.142.149           Sweden, Stockholm County, Stockholm
+6       240.0.196.13            reserved
+7       240.0.196.25            reserved
+8       23.210.57.214           Italy, Lombardy, Milan
+9       23.210.59.137           Sweden, Stockholm County, Stockholm
+10      104.84.152.58           Sweden, Stockholm County, Stockholm
+###########################################
+Traceroute to almatar.com (104.26.4.174) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       244.5.0.101             reserved
+2       240.0.16.14             reserved
+3       240.0.16.29             reserved
+4       242.0.125.225           reserved
+5       52.93.142.151           Sweden, Stockholm County, Stockholm
+6       52.93.145.212           Sweden, Stockholm County, Stockholm
+7       52.93.144.95            Sweden, Stockholm County, Stockholm
+8       100.92.24.83            reserved
+9       240.0.92.6              reserved
+10      242.1.92.163            reserved
+11      100.100.2.44            reserved
+12      99.83.94.61             United States, Washington, Seattle
+13      162.158.84.55           Germany, Hesse, Frankfurt
+14      104.26.4.174            Canada, Ontario, Toronto
+###########################################
+Traceroute to malaysiaairlines.com (104.17.42.26) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       13.53.0.207             Sweden, Stockholm, Stockholm
+2       240.0.16.15             reserved
+3       240.0.16.19             reserved
+4       242.0.125.225           reserved
+5       52.93.142.151           Sweden, Stockholm County, Stockholm
+6       52.93.145.212           Sweden, Stockholm County, Stockholm
+7       52.93.144.91            Sweden, Stockholm County, Stockholm
+8       99.83.93.95             United States, Washington, Seattle
+10      104.17.42.26            Canada, Ontario, Toronto
+###########################################
+Traceroute to lihkg.com (104.17.127.209) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       244.5.0.103             reserved
+2       240.0.16.14             reserved
+3       240.0.16.21             reserved
+4       242.0.124.113           reserved
+5       52.93.142.179           Sweden, Stockholm County, Stockholm
+6       52.93.145.212           Sweden, Stockholm County, Stockholm
+7       52.93.144.91            Sweden, Stockholm County, Stockholm
+8       99.83.93.95             United States, Washington, Seattle
+9       104.17.127.209          Canada, Ontario, Toronto
+###########################################
+Traceroute to gamer.com.tw (104.16.224.104) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       13.53.0.205             Sweden, Stockholm, Stockholm
+2       240.0.16.12             reserved
+3       240.0.16.25             reserved
+4       242.0.124.97            reserved
+5       52.93.142.151           Sweden, Stockholm County, Stockholm
+6       52.93.145.226           Sweden, Stockholm County, Stockholm
+7       52.93.144.107           Sweden, Stockholm County, Stockholm
+9       104.16.224.104          Canada, Ontario, Toronto
+###########################################
+Traceroute to 8.8.8.8 (8.8.8.8) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       244.5.0.1               reserved
+2       240.0.16.15             reserved
+3       240.0.16.20             reserved
+4       242.0.124.113           reserved
+5       52.93.142.179           Sweden, Stockholm County, Stockholm
+6       52.93.145.212           Sweden, Stockholm County, Stockholm
+7       52.93.144.87            Sweden, Stockholm County, Stockholm
+8       142.250.171.246         United States, California, Mountain View
+10      8.8.8.8                 United States, Virginia, Ashburn
+###########################################
+Traceroute to google.com (142.250.74.46) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       244.5.0.103             reserved
+2       240.0.16.12             reserved
+3       240.0.16.18             reserved
+4       242.0.125.113           reserved
+5       52.93.142.177           Sweden, Stockholm County, Stockholm
+6       240.0.196.12            reserved
+7       240.0.196.20            reserved
+8       74.125.119.32           United States, California, Mountain View
+10      142.251.65.82           United States, California, Mountain View
+11      142.250.239.185         United States, California, Mountain View
+12      142.250.74.46           United States, New York, Plainview
+###########################################
+Traceroute to anaf.ro (217.156.52.94) with max hops 60 and timeout 1
+Local IP: 13.51.109.249         Sweden, Stockholm, Stockholm
+1       13.53.0.205             Sweden, Stockholm, Stockholm
+2       240.0.16.15             reserved
+3       240.0.16.25             reserved
+4       242.0.125.233           reserved
+5       52.93.142.175           Sweden, Stockholm County, Stockholm
+6       52.93.145.240           Sweden, Stockholm County, Stockholm
+7       52.93.144.129           Sweden, Stockholm County, Stockholm
+8       100.92.5.179            reserved
+9       100.100.8.105           reserved
+10      100.100.81.136          reserved
+11      100.100.81.131          reserved
+12      100.100.2.24            reserved
+13      193.251.248.85          France, Île-de-France, Paris
+14      193.251.128.181         France, Île-de-France, Bagnolet
+15      81.52.187.72            France, Île-de-France, Paris
+16      193.151.28.33           Romania, Ilfov, Popesti-Leordeni
+18      193.151.30.242          Romania, Ilfov, Popesti-Leordeni

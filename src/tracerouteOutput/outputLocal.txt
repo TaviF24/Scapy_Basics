@@ -1,0 +1,131 @@
+###########################################
+Traceroute to google.com.au (142.251.39.35) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.225.83.17     	private
+5	10.220.190.202   	private
+6	10.220.188.198   	private
+7	10.220.153.20    	private
+8	72.14.216.212    	United States, California, Mountain View
+10	209.85.255.242   	United States, California, Mountain View
+11	142.251.228.27   	United States, Maryland, Gaithersburg
+12	142.251.39.35    	Hungary, Budapest, Budapest
+###########################################
+Traceroute to ozbargain.com.au (172.67.8.209) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.225.83.17     	private
+5	10.220.190.202   	private
+6	10.220.188.200   	private
+7	10.220.165.135   	private
+8	86.120.70.185    	Romania, București, Bucharest
+9	172.67.8.209     	Canada, Ontario, Toronto
+###########################################
+Traceroute to sas.no (66.22.34.49) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.225.83.17     	private
+5	10.220.190.202   	private
+6	10.220.188.198   	private
+7	10.220.208.53    	private
+9	62.115.114.110   	Austria, Vienna, Vienna
+10	62.115.137.202   	Germany, Hesse, Frankfurt am Main
+11	62.115.114.89    	Germany, Hesse, Frankfurt am Main
+12	62.115.32.235    	Germany, Hesse, Frankfurt am Main
+14	66.22.34.49      	Germany, Hesse, Frankfurt
+###########################################
+Traceroute to turkishairlines.com (104.117.76.11) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.225.83.17     	private
+5	10.220.190.202   	private
+6	10.220.188.200   	private
+7	10.220.142.133   	private
+8	81.196.20.185    	Romania, Călărași County, Olteniţa
+9	104.117.76.11    	Romania, București, Bucharest
+###########################################
+Traceroute to almatar.com (104.26.5.174) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.227.51.33     	private
+5	10.220.136.209   	private
+6	10.220.188.200   	private
+7	10.220.189.247   	private
+8	86.120.70.185    	Romania, București, Bucharest
+9	104.26.5.174     	Canada, Ontario, Toronto
+###########################################
+Traceroute to malaysiaairlines.com (104.17.43.26) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.227.51.33     	private
+5	10.220.158.124   	private
+6	10.220.133.32    	private
+7	10.220.165.135   	private
+8	86.120.70.185    	Romania, București, Bucharest
+9	104.17.43.26     	Canada, Ontario, Toronto
+###########################################
+Traceroute to lihkg.com (104.16.144.160) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.227.51.33     	private
+5	10.220.158.124   	private
+6	10.220.158.193   	private
+7	10.220.208.25    	private
+8	86.120.70.185    	Romania, București, Bucharest
+9	104.16.144.160   	Canada, Ontario, Toronto
+###########################################
+Traceroute to gamer.com.tw (104.16.223.104) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.225.83.17     	private
+5	10.220.190.202   	private
+6	10.220.188.198   	private
+7	10.220.208.25    	private
+8	86.120.70.185    	Romania, București, Bucharest
+9	104.16.223.104   	Canada, Ontario, Toronto
+###########################################
+Traceroute to 8.8.8.8 (8.8.8.8) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.227.51.33     	private
+5	10.220.158.124   	private
+6	10.220.158.193   	private
+7	10.220.153.20    	private
+8	209.85.168.182   	United States, California, Mountain View
+9	209.85.250.89    	United States, California, Mountain View
+10	216.239.49.77    	United States, Oklahoma, Pryor
+11	8.8.8.8          	United States, Virginia, Ashburn
+###########################################
+Traceroute to google.com (142.250.180.238) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.227.51.33     	private
+5	10.220.136.209   	private
+6	10.220.188.200   	private
+7	10.220.208.244   	private
+8	209.85.168.182   	United States, California, Mountain View
+9	209.85.250.89    	United States, California, Mountain View
+10	142.251.65.217   	United States, California, Mountain View
+11	142.250.180.238  	Hungary, Budapest, Budapest
+###########################################
+Traceroute to anaf.ro (217.156.52.94) with max hops 60 and timeout 1
+Local IP: 5.14.89.153		Romania, Constanța County, Constanța
+1	172.16.0.1       	private
+3	10.0.26.49       	private
+4	10.225.83.17     	private
+5	10.220.136.208   	private
+6	10.220.133.32    	private
+8	82.76.246.246    	Romania, Sibiu County, Sibiu
+9	193.151.28.37    	Romania, Ilfov, Popesti-Leordeni
+10	172.18.120.39    	private
+13	193.151.30.242   	Romania, Ilfov, Popesti-Leordeni

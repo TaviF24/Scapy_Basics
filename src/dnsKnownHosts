@@ -1,0 +1,5 @@
+exemplu.com.;exemplu.redirect.com.
+sub.exemplu.com.;10.26.0.25
+exemplu.redirect.com.;10.26.0.1
+test.ro.;test2.ro.
+test2.ro.;test.ro.
